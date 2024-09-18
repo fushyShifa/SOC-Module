@@ -1,4 +1,4 @@
-# Awesome SOC
+# SOC-Module
 A collection of sources of documentation, and field best practices, to build and run a SOC (including CSIRT).
 
 Those are my view, based on my own experience as SOC/CSIRT analyst and team manager, as well as well-known papers. Focus is more on SOC than on CERT/CSIRT.
